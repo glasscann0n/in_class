@@ -4,7 +4,7 @@ TARGET	= example.exe
 
 RM		= del
 
-FILES 	= main.cpp
+FILES 	= main.cpp data.cpp utility.cpp starwars.cpp
 #FILES go here^
 
 OBJS 	= $(FILES:.cpp=.o)
