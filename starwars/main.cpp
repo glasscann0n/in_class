@@ -3,7 +3,6 @@
 using namespace std;
 
 #include "data.h"
-#include "utility.h"
 #include "starWars.h"
 
 int main(int argc, char *argv[]) {
