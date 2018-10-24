@@ -1,0 +1,11 @@
+# Python projects
+*.py[cod]
+__pycache__
+
+# Vim files
+*~
+*.swp
+
+# C/C++ projects
+*.o
+*.a
